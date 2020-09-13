@@ -1,5 +1,11 @@
 # Food Ordering System
 
+Food Ordering System is an application which will help restaurant to optimized and control over their restaurants. For the waiters, it is making life easier because they don’t have to go kitchen and give the orders to chef easily. For the management point of view, the manager will able able to control the restaurant by having all the reports to hand and able to see the records of each employees and orders. This application helps the restaurants to do all functionalities more accurately and faster way. Food Ordering System reduces manual works and improves efficiency of restaurant. This application is helping Food Ordering s to maintain the stock and cash flows and there are many more functionalities, like. 
+
+1. To store records.  Control orders and services.  Billings.  Control staff and their shifting. 
+2. Control multiple branches.  Helps Manager to control each part of the restaurant. The main goal is to maintain the restaurant’s functions in an effective and accurate manner and also it is reducing the use of manual entries. This software helps food orders to maintain day to day records in system. It is keeping a proper record of the database.
+
+PROBLEM STATEMENT: Many restaurants is storing all of their data in manual way. They have huge number of customers daily. So because large number of customers, they need the help of some features so they can maintain and stores the records accurately. 
 ## Screenshots
 ### Login
 ![Login](https://image.prntscr.com/image/aY4ghnqETTWc8w6RRqcSOw.jpg)
